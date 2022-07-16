@@ -1,0 +1,137 @@
+.seccionUno {
+  padding-top: 50px;
+}
+
+.h3SeccionUno {
+  text-align: left;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  font-size: 5vw;
+  color: rgb(0, 0, 0);
+  width: auto;
+}
+
+.h2SeccionUno {
+  text-align: left;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  font-size: 2vw;
+  color: rgb(5, 8, 104);
+  width: auto;
+}
+
+.btnSeccionUno {
+  text-align: center;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  font-size: 15px;
+  width: auto;
+}
+
+.seccionDos {
+  padding-top: 50px;
+}
+
+.infoseccionDos {
+  padding-top: 9%;
+}
+
+.h2SeccionDos {
+  text-align: left;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  font-size: 1.5vw;
+  color: rgb(57, 62, 222);
+  width: auto;
+}
+
+.h2SeccionDos:hover {
+  color: rgb(3, 6, 83);
+}
+
+.h3SeccionDos {
+  text-align: left;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  font-size: 2.5vw;
+  color: rgb(82, 81, 81);
+  width: auto;
+}
+
+.h3SeccionDos:hover {
+  color: rgb(0, 0, 0);
+}
+
+#ImgUno {
+  width: 100%;
+  height: auto;
+  box-shadow: 2px 5px 30px rgb(94, 94, 94);
+}
+
+.seccionTres {
+  padding-top: 30px;
+  padding-left: 40px;
+}
+
+.h1SeccionTres {
+  text-align: left;
+  padding-left: 20px;
+  margin-bottom: 1rem;
+  font-size: 2.5vw;
+  color: rgb(29, 15, 147);
+  width: auto;
+}
+
+.seccionCuatro {
+  padding-top: 30px;
+  padding-right: 25px;
+}
+
+.iconTec {
+  filter: grayscale(100%);
+  width: 100%;
+  height: auto;
+}
+
+.iconTec:hover {
+  filter: grayscale(0%);
+}
+
+.scrum {
+  padding-top: 30px;
+}
+
+.h1SeccionCuatro {
+  text-align: right;
+  font-size: 5vw;
+  font-family: "The Nautigal", cursive;
+  padding-right: 25px;
+  margin-bottom: 1rem;
+  color: rgb(30, 11, 201);
+  width: auto;
+}
+
+.h1SeccionCuatro:hover {
+  color: rgb(8, 2, 67);
+}
+
+.h1SeccionTres:hover {
+  color: rgb(8, 2, 67);
+}
+
+@media screen and (max-device-width: 700px) {
+  .h1SeccionCuatro {
+    text-align: center;
+    font-size: 5vw;
+    font-family: "The Nautigal", cursive;
+    padding-right: 25px;
+    margin-bottom: 1rem;
+    color: rgb(30, 11, 201);
+    width: auto;
+  }
+  .scrum {
+    padding-top: 15px;
+  }
+}
